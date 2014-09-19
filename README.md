@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/justinharrison/99bottles.png?label=ready&title=Ready)](https://waffle.io/justinharrison/99bottles)
 This is a simple shellscript that sings 99 bottles of beer on the wall. Currently only OSX is supported, but other platforms will come soon.
 
 Usage:
