@@ -1,6 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/justinharrison/99bottles.png?label=ready&title=Ready)](https://waffle.io/justinharrison/99bottles)
 
-This is a simple shellscript that sings 99 bottles of beer on the wall. Currently only OSX is supported, but other platforms will come soon.
+This is a simple shellscript that sings 99 bottles of beer on the wall. Currently only OSX is supported, and Linux/espeak support is currently undergoing testing.
 
 ## Usage
 
@@ -9,7 +9,7 @@ chmod a+x 99bottles.sh
 ./99bottles.sh
 ```
 
-Enjoy the sweet sounds of 99bottles of beer on the wall being sung by your computer.
+That's it! Enjoy the sweet sounds of 99bottles of beer on the wall being sung by your computer.
 
 ## Contributing
 
